@@ -15,6 +15,6 @@ Additionally, witness my Tableau expertise, featuring the ability to :
 5. onduct analyses based on measure variables, and
 6. create comprehensive dashboards.
 
-Check out my Tableau [Public profile](https://public.tableau.com/app/profile/teuku.abuzar.akbar/vizzes) for interactive visualizations and live examples.
+Check out my [Tableau Public profile](https://public.tableau.com/app/profile/teuku.abuzar.akbar/vizzes) for interactive visualizations and live examples.
 This project is designed to highlight my following SQL skills:
 
